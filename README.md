@@ -5,4 +5,5 @@
 - That's it, Enjoy!
 
 **Showcase**
-![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1059901239321710686/1133088301872586753/Screenshot_2023-07-24-19-27-54_2560x1600.png)https://cdn.discordapp.com/attachments/1059901239321710686/1133088301872586753/Screenshot_2023-07-24-19-27-54_2560x1600.png)
+![image](https://github.com/PhilipPanda/TempleOS_Theme/assets/123938029/78b32a20-3457-48ae-9f4b-00ecff0b8692)
+
