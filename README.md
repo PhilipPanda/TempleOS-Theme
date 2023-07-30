@@ -8,6 +8,6 @@
 ![image](https://github.com/PhilipPanda/TempleOS_Theme/assets/123938029/78b32a20-3457-48ae-9f4b-00ecff0b8692)
 
 **Credit**
-- Made by Philip in a memory of Terry A Davis.
+- Made by Philip in memory of Terry A Davis.
 - If you want to support me & my work https://paypal.me/templeterry
 - Other projects https://templecheats.xyz
