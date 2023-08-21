@@ -11,13 +11,25 @@ TDIR='/usr/share/themes'
 IDIR='/usr/share/icons'
 FDIR='/usr/share/fonts'
 SUCCESS=0
-
+DISTRO=$(lsb_release -d)
+PACKAGEMAN=''
 ## Copy Openbox Theme
 echo 'Installing Openbox Theme...'
+
+LS=$( ls .config )
+
+if [[ "$LS" != *"dots"* ]]; then
+	echo 'installing openbox...'
+	if [[ "$DISTRO" == *"arch"* ]] || [[ "$DISTRO" == *"EndeavourOS"* ]]; then
+		sudo pacman -S openbox
+## could be heavily optomized but I just want to initiate the change
+	fi	
+fi
 cp -rf "$DIR"/dots/templeOS "$ODIR"
 if [[ -d "$ODIR/templeOS" ]]; then
 	echo -e 'Theme Installed!\n'
 	SUCCESS=1
+
 fi
 
 ## Install Themes and icons (Requires Root)
@@ -44,3 +56,4 @@ if [[ "$SUCCESS" == '1' ]]; then
 else
 	echo -e '\nFailed to install the theme properly.'
 fi
+
