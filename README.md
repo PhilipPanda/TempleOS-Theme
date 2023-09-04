@@ -9,5 +9,4 @@
 
 **Credit**
 - Made by Philip in memory of Terry A Davis.
-- If you want to support me & my work https://paypal.me/templeterry
 - Other projects https://templecheats.xyz
