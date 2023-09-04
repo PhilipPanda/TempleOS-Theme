@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TempleOS
+Type=X-GNOME-Metatheme
+Comment=A theme with Windows from 1995.
+
+[X-GNOME-Metatheme]
+GtkTheme=TempleOS
+MetacityTheme=TempleOS
+IconTheme=TempleOS
+CursorTheme=TempleOS_Cursor_White
+CursorSize=32
