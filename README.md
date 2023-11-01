@@ -1,5 +1,6 @@
 # TempleOS Theme
 ![GitHub all releases](https://img.shields.io/github/downloads/PhilipPanda/TempleOS-Theme/total?color=seagreen)
+
 **Installation steps:**
 - Download the latest realese and extract it : TempleOS-Theme-Setup.zip
 - Open a terminal in extracted directory and run : ./install.sh
