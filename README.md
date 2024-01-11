@@ -11,4 +11,3 @@
 
 **Credit**
 - Made by Philip in memory of Terry A Davis.
-- Other projects https://templecheats.xyz
