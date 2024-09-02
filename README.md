@@ -1,4 +1,4 @@
-# TempleOS Theme
+<h1 align="center">TempleOS Theme</h1>
 <p align="center">
 <img src="https://img.shields.io/github/downloads/PhilipPanda/TempleOS-Theme/total?style=for-the-badge&label=Downloads&color=cyan&labelColor=white">
 <img src="https://img.shields.io/badge/Distribution-Arch_Linux-cyan?style=for-the-badge&labelColor=white&color=cyan">
