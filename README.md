@@ -7,8 +7,6 @@
 ### Temple OS Theme for Arch Linux - Openbox desktop enviroment inspired by TempleOS.
 ---
 
----
-
 ## Installation Steps
 
 1. **Download** the latest release and extract it:
@@ -20,9 +18,7 @@
    ./install.sh
    ```
 
----
-
-**Showcase**
+## Showcase
 ![image](https://github.com/PhilipPanda/TempleOS_Theme/assets/123938029/78b32a20-3457-48ae-9f4b-00ecff0b8692)
 
 ## Dedicated to
