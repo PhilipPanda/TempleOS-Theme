@@ -1,8 +1,8 @@
 # TempleOS Theme
 <p align="center">
 <img src="https://img.shields.io/github/downloads/PhilipPanda/TempleOS-Theme/total?style=for-the-badge&label=Downloads&color=cyan&labelColor=white">
-<img src="https://img.shields.io/badge/Distribution%20|%20Arch_Linux-1793d1?style=for-the-badge&color=cyan&labelColor=white">
-<img src="https://img.shields.io/badge/Environment%20|%20Openbox-868566?style=for-the-badge&color=cyan&labelColor=white">
+<img src="https://img.shields.io/badge/Distribution%20%7C%20Arch_Linux-cyan?style=for-the-badge&labelColor=white&color=cyan">
+<img src="https://img.shields.io/badge/Environment%20%7C%20Openbox-cyan?style=for-the-badge&labelColor=white&color=cyan">
 </p>
 
 ---
