@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-## Copyright (C) 2020-2023 Philip Panda <https://templecheats.xyz>
+## Copyright (C) 2020-2024 PhilipPanda <https://templeenterprise.com>
 ##
 ## Install TempleOS Theme
 
