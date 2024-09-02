@@ -1,13 +1,29 @@
 # TempleOS Theme
-![GitHub all releases](https://img.shields.io/github/downloads/PhilipPanda/TempleOS-Theme/total?color=seagreen)
+<p align="center">
+<img src="https://img.shields.io/github/downloads/PhilipPanda/TempleOS-Theme/total?style=for-the-badge&label=Downloads&color=cyan&labelColor=white">
+</p>
 
-**Installation steps:**
-- Download the latest realese and extract it : TempleOS-Theme-Setup.zip
-- Open a terminal in extracted directory and run : ./install.sh
-- That's it, Enjoy!
+---
+### Temple OS Theme for Arch Linux - Openbox desktop enviroment inspired by TempleOS.
+---
+
+---
+
+## Installation Steps
+
+1. **Download** the latest release and extract it:
+   - `TempleOS-Theme-Setup.zip`
+
+2. **Open a terminal** in the extracted directory and run the following command:
+
+   ```bash
+   ./install.sh
+   ```
+
+---
 
 **Showcase**
 ![image](https://github.com/PhilipPanda/TempleOS_Theme/assets/123938029/78b32a20-3457-48ae-9f4b-00ecff0b8692)
 
-**Credit**
-- Made by Philip in memory of Terry A Davis.
+## Dedicated to
+- Created by Philip in memory of Terry A. Davis
